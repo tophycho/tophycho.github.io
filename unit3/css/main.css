@@ -4,21 +4,22 @@ body {
 
 h1 {
 	color: purple;
-	font-family: 'Silkscreen', arial, sans-serif;
+	font-family: 'Press Start 2P', cursive, Arial;
 }
 
 p {
 	color:red;
-	font-style: italic;
+	font-family: 'VT323';
 	font-size: 24px;
 }
 
 a {
 	font-size: 30px;
+	font-family: 'VT323';
 }
 
 h2 {
 	font-weight: bold;
-	font-family: Arial;
+	font-family: 'VT323';
 	font-weight: 100;
 }
