@@ -1,28 +1,37 @@
 body {
 	background-image: url("../images/101indeximage.png");
+	background-position: 0 0;
 	background-size: cover;
 	background-repeat: no-repeat;
-	background-attachment: local;
+	background-attachment: scroll;
 }
 
 h1 {
 	color: purple;
 	font-family: 'Press Start 2P', cursive, Arial;
+	text-align: center;
 }
 
-p {
-	color:red;
+p.center {
+	margin-left: auto;
+	margin-right: auto;
+	width: 6em;
+	color:#EDD92C;
 	font-family: 'VT323';
-	font-size: 24px;
+	font-size: 32px;
+	width:425px;
+	text-align:center;
 }
 
 a {
 	font-size: 30px;
 	font-family: 'VT323';
+	text-align: center;
 }
 
 h2 {
 	font-weight: bold;
 	font-family: 'VT323';
 	font-weight: 100;
+	text-align: center;
 }
