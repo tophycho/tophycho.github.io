@@ -49,20 +49,22 @@ h2 {
 	height: 100%;
 	width: 80%;
 	overflow: auto; 
-	position: relative;
+	/*position: relative;*/
 	background-image: url("../images/toppic.png");
 	background-repeat: no-repeat;
 	background-attachment: scroll;
 	background-size: cover;
+	margin-left: 9.5%;
 }
 
 #bottompic2{
 	height: 100%;
 	width: 80%;
 	overflow: auto;
-	position: center;
+	position: relative;
 	background-image: url("../images/bottompic2.png");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: scroll;
+	margin-left: 9.5%;
 }
