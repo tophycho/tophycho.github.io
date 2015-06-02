@@ -5,7 +5,8 @@ html
 }
 
 body {
-	background-image: url("../images/101indeximage.png");
+	/*background-image: url("../images/101indeximage.png");*/
+	background-color: black;
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: scroll;
@@ -46,7 +47,7 @@ h2 {
 
 #toppic{
 	height: 100%;
-	width: 100%;
+	width: 80%;
 	overflow: auto; 
 	position: relative;
 	background-image: url("../images/toppic.png");
@@ -57,9 +58,9 @@ h2 {
 
 #bottompic2{
 	height: 100%;
-	width: 100%;
+	width: 80%;
 	overflow: auto;
-	position: relative;
+	position: center;
 	background-image: url("../images/bottompic2.png");
 	background-size: cover;
 	background-repeat: no-repeat;
