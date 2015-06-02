@@ -1,9 +1,17 @@
+html 
+	{
+	height: 100%;
+	width: 100%;
+}
+
 body {
 	background-image: url("../images/101indeximage.png");
-	background-position: 0 0;
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: scroll;
+	height: 100%;
+	width: 100%;
+	margin: 0; 
 }
 
 h1 {
@@ -34,4 +42,26 @@ h2 {
 	font-family: 'VT323';
 	font-weight: 100;
 	text-align: center;
+}
+
+#toppic{
+	height: 100%;
+	width: 100%;
+	overflow: auto; 
+	position: relative;
+	background-image: url("../images/toppic.png");
+	background-repeat: no-repeat;
+	background-attachment: scroll;
+	background-size: cover;
+}
+
+#bottompic2{
+	height: 100%;
+	width: 100%;
+	overflow: auto;
+	position: relative;
+	background-image: url("../images/bottompic2.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: scroll;
 }
