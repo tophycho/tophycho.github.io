@@ -57,14 +57,15 @@ h2 {
 	margin-left: 9.5%;
 }
 
-#bottompic2{
-	height: 100%;
+#bottompic3{
+	height: 230%;
 	width: 80%;
 	overflow: auto;
 	position: relative;
-	background-image: url("../images/bottompic2.png");
+	background-image: url("../images/bottompic3.png");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-attachment: scroll;
 	margin-left: 9.5%;
+	/*margin-bottom: 100%;*/
 }
