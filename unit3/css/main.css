@@ -73,11 +73,7 @@ h2 {
 	/*margin-bottom: 100%;*/
 }
 
-.101name img{
+.movie_title {
 	position: relative;
-	z-index:-10;
-	float:right;
-	margin-left: 12%;
-	margin-right: auto;
-	margin-bottom:5%;
+	top: 50px;
 }
