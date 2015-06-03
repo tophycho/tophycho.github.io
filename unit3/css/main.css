@@ -76,4 +76,13 @@ h2 {
 .movie_title {
 	position: relative;
 	top: 50px;
+	left: 10px;
+	float: left;
+}
+
+.synopsis {
+	position: relative;
+	top: 20px;
+	right: 20px;
+	float: right;
 }
