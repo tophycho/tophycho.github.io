@@ -17,9 +17,11 @@ body {
 }
 
 h1 {
-	color: purple;
-	font-family: 'Press Start 2P', cursive, Arial;
+	color: black;
+	font-family: 'Satisfy', cursive;
 	text-align: center;
+	right: 20px;
+
 }
 
 p.center {
@@ -80,9 +82,9 @@ h2 {
 	float: left;
 }
 
-.synopsis {
+/*.synopsis {
 	position: relative;
 	top: 20px;
 	right: 20px;
 	float: right;
-}
+}*/
