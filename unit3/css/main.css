@@ -18,11 +18,11 @@ body {
 
 h1 {
 	color: black;
-	font-family: 'Satisfy', cursive;
-	text-align: center;
-	right: 20px;
-
-}
+	font-family: 'Satisfy', 'Playball', cursive;
+	font-size: 36px;
+	margin-right: 50px;
+	float: right;
+}	
 
 p.center {
 	margin-left: auto;
@@ -78,7 +78,7 @@ h2 {
 .movie_title {
 	position: relative;
 	top: 50px;
-	left: 10px;
+	left: 20px;
 	float: left;
 }
 
