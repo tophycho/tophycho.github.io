@@ -16,12 +16,17 @@ body {
 
 }
 
-h1 {
+h1.synopsis_text {
 	color: black;
 	font-family: 'Satisfy', 'Playball', cursive;
 	font-size: 36px;
-	margin-right: 50px;
-	float: right;
+	/*float: right;*/
+	text-align: justify;
+	width: 600px;
+	height: 300px;
+	position: absolute;
+	top: 30px;
+	right: 200px;
 }	
 
 p.center {
